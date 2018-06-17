@@ -51,8 +51,6 @@
 #define MID_OR_BOT 1
 
 
-#define offsetof(TYPE, MEMBER) ((size_t) &((TYPE *)0)->MEMBER)
-
 //global various
 
 // BOOL
