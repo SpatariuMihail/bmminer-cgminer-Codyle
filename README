@@ -127,7 +127,7 @@ CGMiner specific configuration options:
 
   --enable-bitmain_C5        Compile support for BitMain Antminer S9 Multi Chain(default disabled)
 
-
+  --disable-libcurl      if wanted
 
 
 ---
